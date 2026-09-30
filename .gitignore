@@ -1,0 +1,37 @@
+# Eclipse
+
+.metadata/
+.settings/
+.project
+.classpath
+
+# Java
+
+*.class
+
+# Maven
+
+target/
+
+# Gradle
+
+.gradle/
+build/
+
+# Logs
+
+*.log
+
+# Sistema operacional
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# IntelliJ
+
+.idea/
+*.iml
